@@ -1,0 +1,66 @@
+ nav{
+     border-bottom: white solid 10px ;
+ }
+ .myfav{
+    color: #14213d;
+    text-align: center;
+  background-color: #fca311;
+  font-size: 50px;
+
+  margin: 100px 700px 30px 700px;
+  padding: 15px 15px 15px 15px;
+  border: white solid 10px;
+  border-radius: 500px;
+  
+
+}
+.slide{
+
+width: 1000px;
+align-content: center;
+margin-left: 450px;
+border: #fca311 solid 10px;
+}
+ 
+img { width: 50%; height: auto;
+}
+
+.navclr{
+    background-color: #fca311;
+}
+.btnblu{
+    color: #14213d;
+}
+
+
+
+
+
+footer{
+    margin-top: 100px;
+    border-top: #fca311 solid 10px;
+    background-color: white;
+    padding: 3%;
+   
+   
+    }
+    .media{
+   
+       width: 100px;
+    height: 100px; 
+    margin: -50px 600px 50px 0px;
+    border: #fca311 10px solid;
+   }
+   
+   .sugs{
+    color: #14213d;
+    text-align: center;
+  background-color: #fca311;
+  font-size: 50px;
+
+  margin: 200px 700px 30px 700px;
+  padding: 15px 15px 15px 15px;
+  border: white solid 10px;
+  border-radius: 500px;
+       
+   }
